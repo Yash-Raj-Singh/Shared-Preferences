@@ -1,0 +1,2 @@
+rootProject.name = "Shared Prefences"
+include ':app'
